@@ -91,7 +91,7 @@ const Search = () => {
             className="w-8/12 self-center bg-teal-500 mt-12 mb-20 px-6 py-4 text-lg font-bold text-white rounded-lg shadow-lg hover:shadow"
             onClick={save}
           >
-            Enviar seu pedido
+            Enviar pedido
           </button>
         </div>
       )}
