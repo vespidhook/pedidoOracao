@@ -98,7 +98,7 @@ const Search = () => {
       {sucess && (
         <div className="w-1/5 mx-auto">
           <p className="mb-6 text-center bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3">
-            Estaremos orando pelo pelo seu pedido!
+            Estaremos orando pelo seu pedido!
           </p>
           {retorno.showCoupon && <div></div>}
           {retorno.showCoupon && <div></div>}
